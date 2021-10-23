@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitojsjk&label=Profile%20views&color=0e75b6&style=flat" alt="amitojsjk" /> </p>
 
-- 🔭 I’m interested in **Web Development**
+- 🔭 I’m interested in **Web Development.**
 
 - 🌱 I’m currently working on my skills and learning **Back-End using MySQL database and trying my hand on Joomla to expertise Front-End designing.**
 
