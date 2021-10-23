@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">👋, I'm Amitoj Singh</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">👋, I'm Amitoj Singh</h1>
 
 <h3 align="center">A Sophomore and an Operations Professional from India pursuing Electronics and Computer Software Engineering.</h3>
 
