@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Back-End using MySQL database and trying my hand on joomla! to expertise Front-End designing as well.**
 
-- 📫 How to reach me 
-- **amitoj261@gmail.com**
+- 📫 How to reach me **amitoj261@gmail.com**
 
 - ⚡ Fun fact **I think I'm Ambivert :D**
 
