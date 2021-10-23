@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm Amitoj Singh</h1>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h3 align="center">A Sophomore and an Operations Professional from India pursuing Electronics and Computer Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitojsjk&label=Profile%20views&color=0e75b6&style=flat" alt="amitojsjk" /> </p>
