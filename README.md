@@ -6,7 +6,7 @@
 
 - 🔭 I’m interested in **Web Development.**
 
-- 🌱 I’m currently working on my skills, learning **Back-End using MySQL database and trying my hand on Joomla to expertise Front-End designing.**
+- 🌱 Currently working on my skills, learning **Back-End using MySQL database and trying my hand on Joomla to expertise Front-End designing.**
 
 - 📫 How to reach me **amitoj261@gmail.com**
 
