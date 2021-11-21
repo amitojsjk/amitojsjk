@@ -7,7 +7,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=amitojsjk&left_color=gray&right_color=blue)
 
 
-- 🔭 I’m interested in **Web Development.**
+- 🔭 I’m learning about **Web Development.**
 
 - 🌱 Currently working on my skills, learning **Backend using MySQL database and trying my hand on Joomla to expertise Frontend designing.**
 
