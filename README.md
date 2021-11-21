@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amitoj Singh</h1>
 <h3 align="center">(A Sophomore and an Operations Professional from India pursuing Electronics and Computer Software Engineering.)</h3>
 
-[![GitHub amitojsjk](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/amitojsjk)
+[![GitHub amitojsjk](https://img.shields.io/github/followers/amitojsjk?label=follow&style=social)](https://github.com/amitojsjk)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitojsjk&label=Profile%20views&color=0e75b6&style=flat" alt="amitojsjk" /> </p>
 
