@@ -4,9 +4,8 @@
 [![GitHub: Amitoj Singh](https://img.shields.io/github/followers/amitojsjk?label=follow&style=social)](https://github.com/amitojsjk/)
 [![Linkedin: Amitoj Singh](https://img.shields.io/badge/-Aмιтoj%20Sιɴɢн-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitojsjk/)](https://www.linkedin.com/in/amitojsjk/)
 
-[![Instagram: Amitoj Singh](https://img.shields.io/badge/-Amitoj%20S.-redviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/amitoj_261/)](https://instagram.com/amitoj_261/)
+[![Instagram: Amitoj Singh](https://img.shields.io/badge/-Amitoj%20S.-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/amitoj_261/)](https://instagram.com/amitoj_261/)
 
-[![Instagram: Amitoj S.](https://img.shields.io/instagram/followers/amitoj_261?label=follow&style=social)](https://instagram.com/amitoj_261/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=amitojsjk&left_color=gray&right_color=blue)
 
 
