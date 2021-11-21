@@ -1,9 +1,9 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amitoj Singh </h1>
 <h3 align="center">(A Sophomore and an Operations Professional from India pursuing Electronics and Computer Software Engineering.)</h3>
 
-[![GitHub: Amitoj Singh](https://img.shields.io/github/followers/amitojsjk?label=follow&style=social)](https://github.com/amitojsjk/)
-[![Linkedin: Amitoj Singh](https://img.shields.io/badge/-Amitoj%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitojsjk/)](https://www.linkedin.com/in/amitojsjk/)
-[![Instagram: Amitoj Singh](https://img.shields.io/badge/-Amitoj%20S.-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/amitoj_261/)](https://instagram.com/amitoj_261/)
+[![GitHub: amitojsjk](https://img.shields.io/github/followers/amitojsjk?label=follow&style=social)](https://github.com/amitojsjk/)
+[![Linkedin: amitojsjk](https://img.shields.io/badge/-Amitoj%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitojsjk/)](https://www.linkedin.com/in/amitojsjk/)
+[![Instagram: amitoj_261](https://img.shields.io/badge/-Amitoj%20S.-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/amitoj_261/)](https://instagram.com/amitoj_261/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=amitojsjk&left_color=gray&right_color=blue)
 
 
