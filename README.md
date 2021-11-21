@@ -3,6 +3,8 @@
 
 [![GitHub amitojsjk](https://img.shields.io/github/followers/amitojsjk?label=follow&style=social)](https://github.com/amitojsjk)
 [![Linkedin: Amitoj Singh](https://img.shields.io/badge/-Aмιтoj%20Sιɴɢн-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitojsjk/)](https://www.linkedin.com/in/amitojsjk/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=amitojsjk&left_color=gray&right_color=blue)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitojsjk&label=Profile%20views&color=0e75b6&style=flat" alt="amitojsjk" /> </p>
 
 - 🔭 I’m interested in **Web Development.**
