@@ -9,7 +9,7 @@
 
 - 🔭 I’m learning about **Web Development.**
 
-- 🌱 Currently working on my skills, learning **Backend using MySQL database and trying my hand on Joomla to expertise Frontend designing.**
+- 🌱 Currently working on my skills, doing **Backend using MySQL database and trying my hand on Joomla to expertise Frontend designing.**
 
 - 📫 How to reach me **amitoj261@gmail.com**
 
