@@ -8,7 +8,7 @@
 
 -   I’m learning about *Web Development.*
 -   Currently working on my skills, practising *Backend using MySQL database and trying my hand on Joomla to expertise Frontend designing.*
--   Looking forward on work on *Python, Data Science, AI, ML and related fields.*
+-   Looking forward to work on *Python, Data Science, AI, ML and related fields.*
 -   How to reach me **amitoj261@gmail.com**
 -   Fun fact - *I think I'm an ambivert :D*
 
