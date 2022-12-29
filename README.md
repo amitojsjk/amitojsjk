@@ -1,6 +1,6 @@
 <h1 align="center"> Heyy! <span class="wave">👋</span> , I'm Amitoj Singh </h1>
 
-<html>.wave {
+<!--<html>.wave {
   animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
   animation-duration: 2.5s;        /* Change to speed up or slow down */
   animation-iteration-count: infinite;  /* Never stop waving :) */
@@ -29,7 +29,7 @@ h1 { font-size: 0.5em }
 
 
 </html>
-
+-->
 
 
 <h3 align="center">(A Junior and an Operations Professional from India pursuing Electronics and Computer Software Engineering)</h3>
