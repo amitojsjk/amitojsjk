@@ -32,7 +32,7 @@ h1 { font-size: 0.5em }
 -->
 
 
-<h3 align="center">(A Junior and an Operations Professional from India pursuing Electronics and Computer Software Engineering)</h3>
+<h3 align="center">(A college senior and an Operations Professional from India pursuing Electronics and Computer Software Engineering)</h3>
 
 [![GitHub: amitojsjk](https://img.shields.io/github/followers/amitojsjk?label=follow&style=social)](https://github.com/amitojsjk/)
 [![Linkedin: amitojsjk01](https://img.shields.io/badge/-Amitoj%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitojsjk01/)](https://www.linkedin.com/in/amitojsjk01/)
